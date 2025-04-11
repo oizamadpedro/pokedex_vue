@@ -38,7 +38,8 @@ Você pode consultar esse projeto aqui:
   - Português 🇧🇷
   - Inglês 🇺🇸
   - Espanhol 🇪🇸
-- 📦 Gerenciamento de estado com VueX/Pinia (se aplicável)
+- 📦 Gerenciamento de estado com VueX
+- Testes automatizados simples utilizando vitest, vuetest e jsdom
 
 ---
 
