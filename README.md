@@ -1,6 +1,7 @@
 # Pokédex Vue 🧩
 
-Aplicação web desenvolvida como parte do processo seletivo para Estágio em Desenvolvimento Frontend na [Mainô Sistemas](https://maino.com.br). Este projeto consiste em uma Pokédex construída com Vue.js 3, consumindo dados da PokeAPI.
+Aplicação web desenvolvida como parte de um desafio.
+Este projeto consiste em uma Pokédex construída com Vue.js 3, consumindo dados da PokeAPI.
 
 ---
 
