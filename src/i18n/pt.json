@@ -1,0 +1,54 @@
+{
+    "app": {
+        "title": "Pokédex",
+        "filter": "Filtrar",
+        "load_more": "Carregando mais Pokémon...",
+        "details": "Ver detalhes",
+        "weight": "Peso",
+        "height": "Altura",
+        "category": "Categoria",
+        "ability": "Habilidade",
+        "weaknesses": "Fraquezas",
+        "evolutions": "Evoluções",
+        "moves": "Movimentos de Ataque",
+        "games": "Jogos em que aparece",
+        "click_for_details": "Clique para ver detalhes"
+    },
+    "languages": {
+        "pt": "Português",
+        "en": "Inglês",
+        "es": "Espanhol"
+    },
+    "details": {
+        "weight": "Peso",
+        "height": "Altura",
+        "category": "Categoria",
+        "ability": "Habilidade",
+        "weaknesses": "Fraquezas",
+        "evolutions": "Evoluções",
+        "moves": "Movimentos de Ataque",
+        "games": "Jogos em que aparece",
+        "sprites": "Sprites",
+        "spritesLabels": {
+            "front_default": "Frente",
+            "front_shiny": "Frente (Brilhante)",
+            "back_default": "Costas",
+            "back_shiny": "Costas (Brilhante)",
+            "official_artwork": "Arte Oficial",
+            "dream_world": "Mundo dos Sonhos",
+            "home": "Home",
+            "home_shiny": "Home (Brilhante)"
+        }
+    },
+    "filter": {
+        "name": "Nome",
+        "name_placeholder": "Buscar por nome",
+        "id": "ID",
+        "id_placeholder": "Filtrar por ID",
+        "type": "Tipo",
+        "type_placeholder": "Filtrar por tipo",
+        "species": "Espécie",
+        "species_placeholder": "Filtrar por espécie",
+        "button": "Filtrar"
+    }
+}

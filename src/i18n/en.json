@@ -1,0 +1,54 @@
+{
+    "app": {
+        "title": "Pokédex",
+        "filter": "Filter",
+        "load_more": "Loading more Pokémon...",
+        "details": "View Details",
+        "weight": "Weight",
+        "height": "Height",
+        "category": "Category",
+        "ability": "Ability",
+        "weaknesses": "Weaknesses",
+        "evolutions": "Evolutions",
+        "moves": "Attack Moves",
+        "games": "Games Appeared In",
+        "click_for_details": "Click to see details"
+    },
+    "languages": {
+        "pt": "Portuguese",
+        "en": "English",
+        "es": "Spanish"
+    },
+    "details": {
+        "weight": "Weight",
+        "height": "Height",
+        "category": "Category",
+        "ability": "Ability",
+        "weaknesses": "Weaknesses",
+        "evolutions": "Evolutions",
+        "moves": "Attack Moves",
+        "games": "Games Appeared In",
+        "sprites": "Sprites",
+        "spritesLabels": {
+            "front_default": "Front",
+            "front_shiny": "Front (Shiny)",
+            "back_default": "Back",
+            "back_shiny": "Back (Shiny)",
+            "official_artwork": "Official Art",
+            "dream_world": "Dream World",
+            "home": "Home",
+            "home_shiny": "Home (Shiny)"
+        }
+    },
+    "filter": {
+        "name": "Name",
+        "name_placeholder": "Search by name",
+        "id": "ID",
+        "id_placeholder": "Filter by ID",
+        "type": "Type",
+        "type_placeholder": "Filter by type",
+        "species": "Species",
+        "species_placeholder": "Filter by species",
+        "button": "Filter"
+    }
+}
