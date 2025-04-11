@@ -43,6 +43,12 @@ Você pode consultar esse projeto aqui:
 
 ---
 
+## Testes Automatizados:
+
+![ Imagem dos testes realizados, apenas para exemplo ](image.png)
+
+---
+
 ## 🛠️ Como Rodar Localmente
 
 ```bash
