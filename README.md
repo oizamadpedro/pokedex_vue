@@ -2,6 +2,8 @@
 
 Aplicação web desenvolvida como parte de um desafio.
 Este projeto consiste em uma Pokédex construída com Vue.js 3, consumindo dados da PokeAPI.
+Você pode consultar esse projeto aqui:
+- https://pokedex-vue-one.vercel.app
 
 ---
 
